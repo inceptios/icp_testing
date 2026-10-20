@@ -1,0 +1,1 @@
+VITE_SHELL_ENDPOINTL:string
